@@ -3,11 +3,13 @@
 - 👀 I’m interested in GCP, AWS, AZURE, Python, Kubernetes, Docker
 - 🌱 I’m currently exploring Cloud Technologies & DevOps Tools
 - 💞️ I’m looking to collaborate on Cloud Technologies, DevOps, ML, AI & Python
-- ✍️ My hobby is writing HINDI POETRY
+- ✍️ My hobby is writing HINDI POETRY. ✒️ I am Poet (कवि) & use to write potries in Hindi Language. My pen name is Bisen (बिसेन).
+- 🎶 You can read some of my poetries from following links: https://www.yourquote.in/akhand-pratap-singh-ge44/quotes
 
 🏆 Certifications:
                     
     🥇 Certified Google Cloud Professional Cloud Architect
+    🥈 Microsoft Certified Azure Fundamentals
 
 🌦️ Cloud Technology: 
                     
